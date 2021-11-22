@@ -5,6 +5,6 @@ body {
 .center {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
+  border: 3px solid rgb(199, 217, 230);
   padding: 10px;
 }

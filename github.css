@@ -1,0 +1,13 @@
+*{
+    margin: 100;
+    box-sizing: border-box;
+    }
+    .container{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: flex-start;}
+         
+    body {
+      background-color: #2f495a;
+      }
